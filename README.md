@@ -9,6 +9,6 @@ Feel free and come again. Thanks <3
 
 
 
-/*The purpose for this repository is to know more technical skills or knowledge I have.
-/*This repository will be constantly updated. 
-/*Apologies if my repository is down, I may be updating it.
+/nThe purpose for this repository is to know more technical skills or knowledge I have.
+/nThis repository will be constantly updated. 
+/nApologies if my repository is down, I may be updating it.
